@@ -17,7 +17,6 @@ A beginner-friendly MySQL project to track expenses and income.
 1. Users
 2. Categories
 3. Transactions
-4. Budget (Optional)
 
 ## Sample Queries
 - Total Expenses
