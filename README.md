@@ -28,10 +28,19 @@ A beginner-friendly MySQL project to track expenses and income.
 ## Screenshots
 
 ### Tables
-![Tables](screenshots/tables.png)
+![Tables](screenshots/show_tables.png)
+
+### Transactions Data
+![Transactions](screenshots/transactions_data.png)
+
+### Category Report
+![Category Report](screenshots/category_report.png)
 
 ### Monthly Report
-![Report](screenshots/monthly_expense.png)
+![Monthly Report](screenshots/monthly_report.png)
+
+### Income vs Expense
+![Income vs Expense](screenshots/income_vs_expense.png)
 
 ## Author
 Suyash Kolhe
